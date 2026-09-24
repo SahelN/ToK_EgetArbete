@@ -3,12 +3,6 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        // Input: one line with three integers separated by spaces: X Y N
-        //   X = divisor for "Fizz"
-        //   Y = divisor for "Buzz"
-        //   N = count from 1 up to and including N
-        // Constraints: 1 <= X < Y <= N <= 100
-        // Example: "2 3 7"
         Console.Error.WriteLine("Enter three integers separated by spaces: X Y N");
         Console.Error.WriteLine("  X = divisor for \"Fizz\"");
         Console.Error.WriteLine("  Y = divisor for \"Buzz\"");
