@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="FizzBuzz.Tests/FizzBuzz.Tests.csproj" Id="180c1fb3-b235-4b23-9b6c-3fd88be2f7d8" />
   <Project Path="FizzBuzz/FizzBuzz.csproj" />
   <Project Path="Pet/Pet.csproj" Id="7cd754e0-6db1-4609-bca4-935c4599b804" />
+  <Project Path="ReverseBinary/ReverseBinary.csproj" Id="19cb83b0-cebe-49c7-9195-e8d1471e33e8" />
 </Solution>
