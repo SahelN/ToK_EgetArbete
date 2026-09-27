@@ -30,7 +30,7 @@ namespace Pet
                 }
             }
 
-            Console.WriteLine(bestIndex + " " + bestScore);
+            Console.WriteLine($"{bestIndex} { bestScore}");
         }
     }
 }
